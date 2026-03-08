@@ -12,5 +12,5 @@ Este proyecto se divide en:
    5to: Evaluación
    6to: Conclusión
 
-# Tecnologías: Python(Pandas, Numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow)
-# Fuente de Datos:  https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
+Tecnologías: Python(Pandas, Numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow)
+Fuente de Datos:  https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
